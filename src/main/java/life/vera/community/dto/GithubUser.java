@@ -1,9 +1,10 @@
-package life.vera.community.controller.dto;
+package life.vera.community.dto;
 
 /**
  * @author : Veralee
  * @date: 2021/6/12 - 06 - 12 - 下午1:48
  * @Description: life.vera.community.controller.dto
+ * github用户类
  * @version: 1.0
  */
 public class GithubUser {
